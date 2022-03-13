@@ -1,0 +1,20 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "Tazo",
+      "skills": [
+        {"id": 1, "technology": "Laravel", "year": "2"},
+        {"id": 2, "technology": "JavaScript", "year": "3"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nika",
+      "skills": [
+        {"id": 1, "technology": "Laravel", "year": "1"},
+        {"id": 2, "technology": "PHP", "year": "2"}
+      ]
+    }
+  ]
+}
